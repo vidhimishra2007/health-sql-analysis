@@ -120,7 +120,7 @@ Charts and query result exports are saved in the `outputs/` folder, including:
 
 **Vidhi Mishra**  
 Bachelor of Science (Hons.) Computer Science & Data Analytics — IIT Patna  
-[GitHub](https://github.com/vidhimishra2007) | [LinkedIn](https://linkedin.com/in/vidhimishra2007)
+[GitHub](https://github.com/vidhimishra2007) | [LinkedIn](https://www.linkedin.com/in/vidhi-mishra-3b2258303/)
 
 ---
 
